@@ -12,16 +12,26 @@ Si desea ver el resultado desplegado, puede acceder al siguiente enlace:
 https://felft.github.io/fibonacci-numbers/
 
 ## Descarga del programa
-Para ejecutar el programa de manera local puede descargar los archivos, ya sea clonando el repositorio o descargando el archivo comprimido RAR del proyecto.
+Para ejecutar el programa de manera local puede descargar los archivos, ya sea clonando el repositorio o descargando el archivo comprimido ZIP del proyecto.
 
 ### Clonar el repositorio
 1. Ejecute la consola y navegue al directorio en el que quiere clonar el resositorio.
+
+
 
 2. Ejecute el siguiente comando para clonar el repositorio en su equipo local:
 
 ```
 git clone https://github.com/FelFT/fibonacci-numbers.git
 ```
+
+### Descargar el ZIP del repositorio
+1. En la [página del repositorio de GitHub](https://github.com/FelFT/fibonacci-numbers/), haga clic el botón **Code**, que se sencuentra en la parte superior.
+
+2. Seleccione la opción **Download ZIP**
+
+![image](https://user-images.githubusercontent.com/50784966/190692534-53c27f14-8a9f-4386-9293-5dd56451095d.png)
+
 
 ## Despliegue de la aplicación en el equipo local
 Una vez descargado en el equipo local los archivos del proyecto en sus respectivos directorios, se deberá abrir el archivo ```index.html``` con el navegador que se desee.
