@@ -19,7 +19,9 @@ Para ejecutar el programa de manera local puede descargar los archivos, ya sea c
 
 2. Ejecute el siguiente comando para clonar el repositorio en su equipo local:
 
-´´´git clone ´´´
+```
+git clone https://github.com/FelFT/fibonacci-numbers.git
+```
 
 ## Despliegue de la aplicación en el equipo local
 Una vez descargado en el equipo local los archivos del proyecto en sus respectivos directorios, se deberá abrir el archivo ```index.html``` con el navegador que se desee.
