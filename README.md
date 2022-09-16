@@ -17,7 +17,7 @@ Para ejecutar el programa de manera local puede descargar los archivos, ya sea c
 ### Clonar el repositorio
 1. Ejecute la consola y navegue al directorio en el que quiere clonar el resositorio.
 
-
+![image](https://user-images.githubusercontent.com/50784966/190701308-d2ea3486-a9e4-4798-8b45-2c23dc8ac600.png)
 
 2. Ejecute el siguiente comando para clonar el repositorio en su equipo local:
 
@@ -43,6 +43,6 @@ Una vez descargado en el equipo local los archivos del proyecto en sus respectiv
 
 ![image](https://user-images.githubusercontent.com/50784966/190689165-31b2ad7f-c6aa-4e2d-9f13-ec784d178ac4.png)
 
-3. Si ingresa un valor no válido, obtendrá el mensaje de error correspondiente 
+3. Si ingresa un valor no válido, obtendrá el mensaje de error.
 
 ![image](https://user-images.githubusercontent.com/50784966/190690031-429a8671-d5d2-4798-a8f7-07541d582d17.png)
