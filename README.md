@@ -9,7 +9,7 @@ La implementación está programada en lenguaje JavaScript, mientras que la inte
 ## Despliegue de la aplicación
 Si desea ver el resultado desplegado, puede acceder al siguiente enlace:
 
-https://felft.github.io/fibonacci-numbers/
+[https://felft.github.io/fibonacci-numbers/](https://felft.github.io/fibonacci-numbers/)
 
 ## Descarga del programa
 Para ejecutar el programa de manera local puede descargar los archivos, ya sea clonando el repositorio o descargando el archivo comprimido ZIP del proyecto.
