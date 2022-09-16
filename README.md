@@ -46,3 +46,6 @@ Una vez descargado en el equipo local los archivos del proyecto en sus respectiv
 3. Si ingresa un valor no válido, obtendrá el mensaje de error.
 
 ![image](https://user-images.githubusercontent.com/50784966/190690031-429a8671-d5d2-4798-a8f7-07541d582d17.png)
+
+## Realizado por
+- Felipe Flores ([@FelFT](https://github.com/FelFT/))
