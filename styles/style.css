@@ -59,6 +59,11 @@ button{
     background-color: none;
 }
 
+textarea{
+    width: 90%;
+    min-height: 120px;
+}
+
 footer{
     height: 15px;
     font-size:12px;
