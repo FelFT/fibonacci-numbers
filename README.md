@@ -28,7 +28,7 @@ git clone https://github.com/FelFT/fibonacci-numbers.git
 ### Descargar el ZIP del repositorio
 1. En la [página del repositorio de GitHub](https://github.com/FelFT/fibonacci-numbers/), haga clic el botón **Code**, que se sencuentra en la parte superior.
 
-2. Seleccione la opción **Download ZIP**
+2. Seleccione la opción **Download ZIP**.
 
 ![image](https://user-images.githubusercontent.com/50784966/190692534-53c27f14-8a9f-4386-9293-5dd56451095d.png)
 
